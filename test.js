@@ -1,2 +1,3 @@
-console.log("Tesing")
-setTimeout(() => (console.log("Run every 3 sec")), 3000)
+console.log("Starting test")
+setTimeout(() => console.log("waiting 3 seconds..."), 3000)
+console.log("Test complete")
